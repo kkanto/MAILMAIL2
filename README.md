@@ -1,2 +1,2 @@
-# MAILMAIL2
-This is MAILMAIL2
+# maven_template
+This is testow2o12345
